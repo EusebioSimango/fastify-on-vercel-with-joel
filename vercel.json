@@ -4,7 +4,7 @@
   "routes": [
     {
       "src": "/.*",
-      "dest": "/vercel/output/src"
+      "dest": "/src/src"
     }
   ]
 }
