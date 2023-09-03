@@ -8,7 +8,7 @@
       "methods": ["GET"]
     },
     {
-      "src": "/.*",
+      "src": "/.*", 
       "dest": "index.js",
       "methods": ["GET"]
     },
