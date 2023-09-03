@@ -6,6 +6,10 @@ fastify.get("/", async (request, reply) => {
   return { hello: "world" };
 });
 
+fastify.get("/ha", async (request, reply) => {
+  return { hello: "world" };
+});
+
 /**
  * Run the server!
  */
