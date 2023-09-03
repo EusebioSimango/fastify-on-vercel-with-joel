@@ -1,0 +1,15 @@
+{
+  "name": "fastify-on-vercel-with-joel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:EusebioSimango/fastify-on-vercel-with-joel.git",
+  "author": "Eusebio Simango <esimango@technoplus.co.mz>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.22.2"
+  }
+}
