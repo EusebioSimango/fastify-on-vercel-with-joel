@@ -4,12 +4,12 @@
   "routes": [
     {
       "src": "/.*",
-      "dest": "/vercel/output",
+      "dest": "/src",
       "methods": ["GET"]
     },
     {
       "src": "/.*",
-      "dest": "/vercel/output",
+      "dest": "/src",
       "methods": ["POST"]
     }
   ]
