@@ -4,12 +4,12 @@
   "routes": [
     {
       "src": "/.*",
-      "dest": "/index.js",
+      "dest": "/src",
       "methods": ["GET"]
     },
     {
       "src": "/.*",
-      "dest": "/index.js",
+      "dest": "/src",
       "methods": ["POST"]
     }
   ]
